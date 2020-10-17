@@ -1,0 +1,26 @@
+{
+  "name": "ServantOfTenssess",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "debug": "~2.6.9",
+    "discord.js": "^11.2.1",
+    "discord.js-arbitrary-ffmpeg": "^1.0.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fs": "^0.0.1-security",
+    "node-opus": "^0.3.0",
+    "nodemailer": "^4.3.1",
+    "nodemon": "^1.12.1",
+    "performance-now": "^2.1.0",
+    "snekfetch": "^3.5.8",
+    "systeminformation": "^3.32.1",
+    "youtube-search": "^1.1.1",
+    "ytdl-core": "^0.20.1"
+  }
+}
