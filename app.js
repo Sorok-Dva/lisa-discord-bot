@@ -12,7 +12,7 @@ const client = new Discord.Client();
 const token = config.BOT_TOKEN;
 const logChannel = config.LOG_CHANNEL;
 const prefix = config.PREFIX;
-const commands = ['eval', 'bank', 'hosts', 'prune', 'mute', 'unmute', 'sh', 'reload', 'lmgtfy', 'debug', 'ping', 'yt', 'survey', 'scrap'];
+const commands = ['eval', 'bank', 'freenom', 'hosts', 'prune', 'mute', 'unmute', 'sh', 'reload', 'lmgtfy', 'debug', 'ping', 'yt', 'survey', 'cm', 'crypto'];
 
 let streaming = false;
 
